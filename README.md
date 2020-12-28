@@ -1,2 +1,2 @@
 # Chore_Door
-matching games using html,css,and javascript
+matching game using html,css,and javascript
